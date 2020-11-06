@@ -1,4 +1,4 @@
-# [![kyle pan header](https://raw.githubusercontent.com/kylerpan/kylerpan/main/assests/banner.png)]
+<img src="assests/banner.png">
 
 ### Hi there 👋
 
