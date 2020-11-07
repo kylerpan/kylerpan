@@ -1,4 +1,4 @@
-<img src="assests/banner.png">
+# <img align="center" src="images/banner.png">
 
 ### Hi there 👋
 
