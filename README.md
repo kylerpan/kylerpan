@@ -14,7 +14,7 @@
 **Here is an overview of myself 📊 :**
 NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub.
 
-<p float="left">
-  <img align="left" alt="Kylerpan's Github Stats" src="https://github-readme-stats-beige-pi.vercel.app/api?username=kylerpan&show_icons=true&hide_border=true&count_private=true"/>
-  <img align="right" alt="Kylerpan's Top Languages" src="https://github-readme-stats-beige-pi.vercel.app/api/top-langs/?username=kylerpan&layout=compact"/>
-</p>
+<div style="display:flex;">
+  <img alt="Kylerpan's Github Stats" src="https://github-readme-stats-beige-pi.vercel.app/api?username=kylerpan&show_icons=true&hide_border=true&count_private=true"/>
+  <img alt="Kylerpan's Top Languages" src="https://github-readme-stats-beige-pi.vercel.app/api/top-langs/?username=kylerpan&layout=compact"/>
+</div>
