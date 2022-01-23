@@ -1,13 +1,15 @@
 ### Hi there 👋
 
+<div style="display:flex;">
   <img align="right" alt="GIF" src="https://c.tenor.com/aYftpu3atRYAAAAd/studying-from-up-on-the-poppy-hill.gif" width="400" height="224"/> 
-  
-**I'm a 1st year Data Science student at University of California, Irvine! 🙂**
-- 🍜  My favorite dishes are ramen and pho
-- ⏳  I’m currently spending most of my time on college courses
-- 🏃🏻‍♂️  I hold many exercising hobbies: running, rock climbing, badminton, and weight lifting
-- 😮  Fun Fact: I used travel around USA to play junior professional badminton tournaments
-
+  <p>
+    <strong>I'm a 1st year Data Science student at University of California, Irvine! 🙂</strong> <br/>
+    - 🍜  My favorite dishes are ramen and pho <br/>
+    - ⏳  I’m currently spending most of my time on college courses <br/>
+    - 🏃🏻‍♂️  I hold many exercising hobbies: running, rock climbing, badminton, and weight lifting <br/>
+    - 😮  Fun Fact: I used travel around USA to play junior professional badminton tournaments <br/>
+  </p>
+</div>
 
 **More info about me**: Find me on [LinkedIn](https://www.linkedin.com/in/kylerpan/), look through my [personal website](https://kylepan.netlify.app/), or view my [resume](https://kylepan.netlify.app/assets/resume.pdf)
 
