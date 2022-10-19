@@ -3,10 +3,10 @@
 <div style="display:flex;">
   <img align="right" alt="GIF" src="https://c.tenor.com/aYftpu3atRYAAAAd/studying-from-up-on-the-poppy-hill.gif" width="400" height="224"/> 
   <p>
-    <strong>I'm a 1st year Data Science student at University of California, Irvine! 🙂</strong> <br/>
+    <strong>I'm a 2nd year Computer Science student at University of California, Irvine! 🙂</strong> <br/>
     - 🍜  My favorite dishes are ramen and pho <br/>
     - ⏳  I’m currently spending most of my time on college courses <br/>
-    - 🏃🏻‍♂️  I hold many exercising hobbies: running, rock climbing, badminton, and weight lifting <br/>
+    - 🏃🏻‍♂️  I hold many exercising hobbies: running, archery, badminton, and weight lifting <br/>
     - 😮  Fun Fact: I used travel around USA to play junior professional badminton tournaments <br/>
   </p>
 </div>
